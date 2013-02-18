@@ -19,5 +19,5 @@
 
 ## More Information ##
 
-- Author: Ming Tsay <mt@aa.am>
+- Author: Ming Tsay &lt; mt @ aa.am &gt;
 - Copyright &copy; 2013 Ming Tsay. All rights reserved.
